@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🔭 Atualmente estou trabalhando como estagiário backend<br>- 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas</p>
+<p align="left">- 🔭 Atualmente estou trabalhando como estagiário backend<br>- 🌱 Sou estudante de Análise e Desenvolvimento de Sistemas e buscando sempre aprender sobre tecnologia</p>
 
 ###
 
