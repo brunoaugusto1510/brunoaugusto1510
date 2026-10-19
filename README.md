@@ -38,3 +38,5 @@
 </div>
 
 ###
+
+## Vote em mim por bolsa Claude para todos, Fazendo o Brasil dos devs cada vez melhor. 53
