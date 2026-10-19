@@ -40,4 +40,4 @@
 ###
 
 ## Vote em mim por bolsa Claude para todos, Fazendo o Brasil dos Devs cada vez melhor. 
-# 🌟 Vote 53 🏙️
+# 🌟 Vote 53 🏙️ https://www.thegitcity.com/town/brasil-town?run=53
