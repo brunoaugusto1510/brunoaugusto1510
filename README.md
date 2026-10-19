@@ -39,4 +39,5 @@
 
 ###
 
-## 🏙️ Vote em mim por bolsa Claude para todos, Fazendo o Brasil dos Devs cada vez melhor. 53 🏙️
+## Vote em mim por bolsa Claude para todos, Fazendo o Brasil dos Devs cada vez melhor. 
+# 🌟 Vote 53 🏙️
